@@ -6,7 +6,7 @@ Project does work out of the box after successful setup and can be accessed by u
 Superuser credentials are defined in <b>application.yml</b>. <br>
 
 User Log In: <br>
-[http://localhost:8083/auth/realms/<realm-name>/account/](http://localhost:8083/auth/realms/<realm-name>/account/) <br>
+[http://localhost:8083/auth/realms/\<realm-name\>/account/](http://localhost:8083/auth/realms/master/account/) <br>
 Click on "Sign In"
 
 ## Current versions
