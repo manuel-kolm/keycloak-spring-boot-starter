@@ -14,5 +14,5 @@ keycloak:
     admin-user:
       username: admin
       password: admin
-#    realm-import-files: 
-#     - customer-realm.json
+    realm-import-files: 
+     - customer-realm.json
